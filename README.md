@@ -18,3 +18,5 @@ Accuracy: 0.7326530814170837
 Improved, but still below the target.
 
 It looks like there should have been more data cleaning carried out before training the models.
+
+The results were saved in AlphabetSoupCharity.h5 and  AlphabetSoupCharity_Optimisation.h5 (best optimization effort)
